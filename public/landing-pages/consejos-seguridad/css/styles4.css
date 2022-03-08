@@ -1244,7 +1244,7 @@ ul, ol, li {
 }
 
 .navbar-lg .navbar-brand {
-  padding: 0px 0 0;
+  padding: 15px 0 0;
   font-size: 28px;
   font-weight: 700;
   text-transform: uppercase;
@@ -2478,7 +2478,7 @@ a.text-black:focus {
 .intro17 {
   /* background: #111 url(../images/bg/17.jpg) no-repeat center; */
   background-size: cover;
-  padding: 220px 0 170px;
+  padding: 290px 0 170px;
 }
 
 /* 4.18. Intro / 18 */

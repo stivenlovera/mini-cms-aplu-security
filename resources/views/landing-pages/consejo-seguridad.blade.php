@@ -76,8 +76,9 @@
                         </li>
                     </ul> -->
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="dropdown1"><a class="text-white" href="#">Contactanos</a><a
-                                class="text-white" href="#">+59175000248</a></li>
+                        <li class="dropdown1">
+                            <a class="text-white" ><p style="color: #ffff;">Contactanos  |  +59175000248</p></a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -86,7 +87,7 @@
     </section>
 
     <section class="mbr-section--bg-adapted" id="header10-9"
-        style="background-image: url({{ asset('landing-pages/consejos-seguridad/img/fondo.jpeg') }});">
+        style="background-image: url({{ asset('landing-pages/consejos-seguridad/img/fondo.png') }});">
         <div class="intro intro16 intro17">
             <div class="mbr-overlay" style="opacity: 0.75; background-color: rgb(21, 21, 21);"></div>
             <div class="container">
