@@ -111,7 +111,7 @@
                             
                         </div>
                         <div>
-                            <a href="{{ asset('documents/LABORATORIO LABOCLINIC.pdf') }}" download="nombre-para-el-usuario.pdf" class="btn btn-lg btn-success">
+                            <a href="{{ asset('documents/CONSEJOS SEGURIDAD.pdf') }}" download="CONSEJOS SEGURIDAD" class="btn btn-lg btn-success">
                                 Descargar
                                 <!--    <i class="fa fa-shopping-basket"></i> -->
                             </a>
